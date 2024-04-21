@@ -28,3 +28,5 @@ export default function WindowSize() {
     </div>
   );
 }
+
+console.log("Hey");
